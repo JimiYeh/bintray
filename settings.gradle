@@ -1,0 +1,2 @@
+include ':app', ':bintraymaven'
+rootProject.name='Bintray Test'
